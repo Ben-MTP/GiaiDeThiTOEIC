@@ -3,4 +3,6 @@
 git clone url
 git add
 git commit -m "message"
-git push origin master --> bước đăng nhập tài khoản github
+git push origin master --> bước đăng nhập tài khoản git
+--------------
+TIẾP THEO ĐÓ LÀ ADD MỘT VÀI THƯ MỤC CHỨA NHỮNG THÔNG TIN VÀO TRONG 
