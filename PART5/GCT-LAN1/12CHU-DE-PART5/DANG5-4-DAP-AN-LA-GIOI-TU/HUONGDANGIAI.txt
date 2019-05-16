@@ -1,0 +1,11 @@
+﻿4 ĐÁP ÁN LÀ GIỚI TỪ:
+ĐẶC ĐIỂM LÚC NÀO CŨNG LÀ GIỚI TỪ. MÀ GIỚI TỪ LÀ
+THƯỜNG LÀ CHỈ CÓ 1 - 2 ÂM TIẾT THÌ NÓ LÀ GIỚI TỪ:
+KHÔNG DỊCH. NHÍN PHÍA TRƯỚC - PHÍA SAU KHOẢNG TRỐNG:
+
+HỌC THUỘC:
+BEFORE		|
+AFTER		|
+AT		| + GIỜ VD: BY 10:30 PM
+UNTIL		|
+BY		|
