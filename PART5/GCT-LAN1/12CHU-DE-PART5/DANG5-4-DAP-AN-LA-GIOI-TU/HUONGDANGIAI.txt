@@ -9,3 +9,11 @@ AFTER		|
 AT		| + GIỜ VD: BY 10:30 PM
 UNTIL		|
 BY		|
+
+
+---------------
+FRIDAY: --> MỘT NGÀY TRONG TUẦN:
+ON: VÀO NGÀY ĐÓ
+BY: TRƯỚC NGÀY ĐÓ
+BEFORE: TRƯỚC NGÀY ĐÓ
+AFTER: SAU NGÀY ĐÓ
