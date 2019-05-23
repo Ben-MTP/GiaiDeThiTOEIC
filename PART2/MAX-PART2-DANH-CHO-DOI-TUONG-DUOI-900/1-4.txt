@@ -4,3 +4,45 @@ WHO put up the notice on the company bulletin board (ˈbʊlɪtən bɔrd)?
 A: At about six o'clock
 B: It was Elaine from personnel
 C: to let everyone know about it
+
+12:
+WHO's going to give a speech this morning?	| ai là người đã phát biểu vào buổi sáng nay
+A: No, I can give you a ride			| Không, Tôi không thể cho bạn đi nhờ xe
+B: The manager will				| NGười quản lý
+C: The speech was very informative		| Bài phát biểu cung cấp nhiều thông tin bổ ích
+
+
+13:
+Who has the committee selected as vice president?	| Hội đồng đã chọn ai làm phó chủ tịch thế
+A:NO, you should select this one			| Không, bạn không bên chọn nó
+B: In the near future					| Trong thương lai gần
+C: They haven't decided yet.				| Họ vẫn chưa đưa ra quyết định
+
+14: Key: WHO - visit
+WHO's going to visit main plant today?	| Ai là người đến thăm nhà máy tính hôm nay?
+A: I'm not going today			| Tôi không đi ngày hôm nay
+B: A former mayor			| Cự thị trưởng
+C: In the afternoon			| Vào buổi chiều tối
+
+15: WHOSE car - borrow:	
+Whose car are you going to borrow?	| Bạn định mươn xe của ai vây?
+A: NO by bus				| Không, bằng xe bus
+B: My colleague's			| Đồng nghiệp của tôi
+C: I should return it by tomorrow. 	| Tôi nên trả nó vào ngày mai
+
+16: WHO - install - software
+WHO will install the new software?	| Ai sẽ cài đặt phần mềm mới?
+A: At the hardware store		| Tại mội cửa hàng phần cứng
+B: In a few minutes			| Trong vài phút nữa thôi
+C: Jason will take care of it		| Json sẽ lo liệu việc đó
+
+17: 
+WHO is supposed to make a speech at the company's anniversary party?	| Dự kiến ai là người phát biểu tại bữa tiệc kỷ niệm công ty thế?
+A: The party is supposed to be held at the Hilton Hotel on 4th street 	| Bữa tiệc dự kiến sẽ được tổ chức tại khách sạn Hilton trên đường số 4
+B: It hasn't been decided yet						| Nó vẫn chưa được quyết định nữa
+C: I spoke to him at the company party					| Tôi vẫn chưa nói chuyện với anh ấy tại bữa tiệc công ty
+
+18:
+WHOSE choice 
+
+
