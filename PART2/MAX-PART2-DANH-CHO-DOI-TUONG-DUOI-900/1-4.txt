@@ -42,7 +42,25 @@ A: The party is supposed to be held at the Hilton Hotel on 4th street 	| Bữa t
 B: It hasn't been decided yet						| Nó vẫn chưa được quyết định nữa
 C: I spoke to him at the company party					| Tôi vẫn chưa nói chuyện với anh ấy tại bữa tiệc công ty
 
-18:
-WHOSE choice 
+18: whose/in charge of/renovation (cải tạo, làm mới)
+WHOSE's in charge of the main office renovation		| Ai là người được gia nhiệm vụ cải tạo văn phòng chính
+A: There is no charge for it				| Nó không mất phí
+B: The new project manager				| Người quản lý dự án mới
+C: To go to the headquarters				| để đi đến trụ sở làm việc
+
+19: Who's/ scheduled/projector
+Who's scheduled to use the projector?	| Dự kiến ai sẽ sử dụng máy chiếu vậy?
+A: No one right now			| Bây giờ thì không ai cả
+B: An interesting project		| Một dự án rất thú vị
+C: on the ground floor			| Ở tầng trêt (tức là sảnh)
+
+20: WHO/password/security system
+Who's changed the password for the security system?	| Ai là người thay đổi mật khẩu của hệ thông bảo vệ vây?
+A: I think it was the president				| Tôi nghĩ đó là giám đốc
+B: You have to bring your passport with you		| Bạn phải luôn mang theo hộ chiếu của mình
+C: To secure your mail better.				| Để bảo vệ email tốt hơn
+
+
+21: 
 
 
